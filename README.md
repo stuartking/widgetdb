@@ -6,13 +6,13 @@ A very basic node module for storing and retriving widgets. Widget DB is an in-m
 ## Installation
 
 ```shell
-  npm git+https://github.com/stuartking/widgetdb.git
+  npm install git+https://github.com/stuartking/widgetdb.git
 ```
 
 ## Initialization
 
 ```js
-  var widgetdb = require('widgetdb')
+  const widgetdb = require('widgetdb')
 ```
 
 ## Functions
